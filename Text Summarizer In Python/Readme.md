@@ -8,7 +8,7 @@ Run  the Text Summarizer.py
 
 You will receive the summary in - Text Output
 
-Python libraries imported-
+## Python libraries imported-
 
 import docx2txt
 
@@ -20,4 +20,3 @@ import nltk
 
 import docx
 
-Thank You
