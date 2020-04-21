@@ -11,7 +11,13 @@ You will receive the summary in - Text Output
 Python libraries imported-
 
 import docx2txt
+
 import re
+
 import heapq
+
 import nltk
+
 import docx
+
+Thank You
