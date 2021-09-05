@@ -1,1 +1,1 @@
-Movies Classifier
+Movie Review Classifier
